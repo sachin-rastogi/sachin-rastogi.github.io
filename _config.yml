@@ -7,15 +7,15 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Sasha Kapralov
+title:            Sachin Rastogi
 tagline:          'Data Scientist'
 description:      'Data Scientist'
-url:              https://sasha-kap.github.io
+url:              https://sachin-rastogi.github.io
 baseurl:          /
 
 author:
-  name:           'Sasha Kapralov'
-  url:            https://sasha-kap.github.io
+  name:           'Sachin Rastogi'
+  url:            https://sachin-rastogi.github.io
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/sasha-kap
+  repo:           https://github.com/sachin-rastogi
